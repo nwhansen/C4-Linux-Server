@@ -1,4 +1,8 @@
 # Ignore List
+#Folders
 /nbproject/
+#This will be included upon completion of the project.
+/libevent/
+#Files such as make and what not
 *.exe
 *.o
