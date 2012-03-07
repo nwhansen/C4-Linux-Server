@@ -1,0 +1,4 @@
+# Ignore List
+/nbproject/
+*.exe
+*.o
